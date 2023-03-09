@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OphirPass.MAUI2", "OphirPass.MAUI2\OphirPass.MAUI2.csproj", "{C1E473B2-6D92-4D88-97C4-AFBE89888BA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OphirPass.Shared", "Shared\OphirPass.Shared\OphirPass.Shared.csproj", "{EFC31656-A72C-40C2-B0D4-B13B5BEFDE20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C1E473B2-6D92-4D88-97C4-AFBE89888BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1E473B2-6D92-4D88-97C4-AFBE89888BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1E473B2-6D92-4D88-97C4-AFBE89888BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFC31656-A72C-40C2-B0D4-B13B5BEFDE20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC31656-A72C-40C2-B0D4-B13B5BEFDE20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC31656-A72C-40C2-B0D4-B13B5BEFDE20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC31656-A72C-40C2-B0D4-B13B5BEFDE20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

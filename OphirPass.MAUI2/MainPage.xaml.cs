@@ -11,6 +11,8 @@ public partial class MainPage : ContentPage
 
 	private void OnCounterClicked(object sender, EventArgs e)
 	{
+		Console.WriteLine(OphirPass.Shared.Class1.Title);
+		
 		count++;
 
 		if (count == 1)
